@@ -1,3 +1,0 @@
-VME_BINP=BOUT,BIN,SYNC,CLK100,CLK10,RIO_A[32..1],RIO_C[32..1],DZ_I[7..0],DZ_O[7..0],TTL[7..0]
-VME_BUS=G\A\[5..0],AM[5..0],A[31..1],L\W\O\R\D\,D[31..0],A\S\,D\S\[1..0],W\R\I\T\E\,D\T\A\C\K\,B\E\R\R\,R\E\S\P\,R\E\T\R\Y\,I\R\Q\[7..1],I\A\C\K\,I\A\C\K\I\N\,I\A\C\K\O\U\T\,A\C\F\I\A\L\,S\Y\S\R\S\T\,S\Y\S\F\A\I\L\,S\Y\S\C\L\K\
-VME_SYS=B\B\S\Y\,B\C\L\R\,B\R\[3..0],B\G\I\N\[3..0],B\G\O\U\T\[3..0],MRP,MCLK,MSD,MMD,MCTL,SERA,SERB,LI/I\,LI/O\

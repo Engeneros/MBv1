@@ -293,74 +293,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document16]
-DocumentPath=vme_full_bus.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document17]
-DocumentPath=vme_sys_buff.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document18]
-DocumentPath=vme_bus_buff.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document19]
-DocumentPath=vme_conn.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
 DocumentPath=vme6U_carrier_Cyc_V_SoC.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document17]
 DocumentPath=vme6U_carrier.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,24 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
-DocumentPath=vme_conn.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=10
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YEPYJJTE
-
-[Document23]
+[Document18]
 DocumentPath=cyc_v_som_A.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,58 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OABNLARD
 
-[Document24]
-DocumentPath=vme_bus_buff.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=12
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DCKACWIN
-
-[Document25]
-DocumentPath=vme_sys_buff.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=13
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=USXJONAG
-
-[Document26]
-DocumentPath=vme_full_bus.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=14
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SXAYCSXE
-
-[Document27]
+[Document19]
 DocumentPath=cyc_v_som_B.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RWCPPVTS
 
-[Document28]
+[Document20]
 DocumentPath=cyc_v_som_C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PVBWISYX
 
-[Document29]
+[Document21]
 DocumentPath=uart_adm3222.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFPNBBKG
 
-[Document30]
+[Document22]
 DocumentPath=jtag.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KWQWUKYV
 
-[Document31]
+[Document23]
 DocumentPath=sdcard_emmc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WCPJGCKL
 
-[Document32]
+[Document24]
 DocumentPath=ethernet_dual_100mbe_ext_magn.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TXOQNBKR
 
-[Document33]
+[Document25]
 DocumentPath=ethernet_1gbe_ext_magn.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VYITBTUK
 
-[Document34]
+[Document26]
 DocumentPath=can_phy.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -615,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OLXBPMKH
 
-[Document35]
+[Document27]
 DocumentPath=Power_3V3_LDO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -632,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GPMYRENK
 
-[Document36]
+[Document28]
 DocumentPath=SFPplusConn.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLMIEQUJ
 
-[Document37]
+[Document29]
 DocumentPath=vme64x6U_ctrlc.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -666,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TWAVCIEJ
 
-[Document38]
+[Document30]
 DocumentPath=Si5395_CLK_GEN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PXEUPXMV
 
-[Document39]
+[Document31]
 DocumentPath=power_REG104GA_3V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KYXTSDBV
 
-[Document40]
+[Document32]
 DocumentPath=power_REG104GA_1V8.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WYFOJTGF
 
-[Document41]
+[Document33]
 DocumentPath=Si5395_CLK_PWR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XCSKMVJI
 
-[Document42]
+[Document34]
 DocumentPath=vme6U_carrier_Cyc_V_SoC.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -750,94 +614,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\Design Rule Check - vme64x6U_ctrlc.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=vme64x6U_ctrlc 08.11.2021 9-22-25.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=vme64x6U_ctrlc 18.05.2020 0-12-43.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\NC Drill Files\vme64x6U_ctrlc.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\Gerber Files\vme64x6U_ctrlc.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\Gerber Files\vme64x6U_ctrlc.G1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\Gerber Files\vme64x6U_ctrlc.G2
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\Gerber Files\vme64x6U_ctrlc.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\Gerber Files\vme64x6U_ctrlc.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\Gerber Files\vme64x6U_ctrlc.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\Gerber Files\vme64x6U_ctrlc.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\Gerber Files\vme64x6U_ctrlc.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\Gerber Files\vme64x6U_ctrlc.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\Gerber Files\vme64x6U_ctrlc.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\Gerber Files\vme64x6U_ctrlc.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\Gerber Files\vme64x6U_ctrlc.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\Gerber Files\vme64x6U_ctrlc.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\Gerber Files\vme64x6U_ctrlc.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\NC Drill Files\vme64x6U_ctrlc.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\Gerber Files\vme64x6U_ctrlc.REP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\Gerber Files\vme64x6U_ctrlc.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for vme6U_carrier_Cyc_V_SoC\NC Drill Files\vme64x6U_ctrlc.TXT
-DItemRevisionGUID=
 
 [SearchPath1]
 Path=*.*
@@ -965,7 +741,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP LaserJet Pro MFP M125-M126 PCLmS
+TargetPrinter=HP LaserJet MFP M227-M231 PCL-6 (V4)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
