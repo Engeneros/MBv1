@@ -1,0 +1,2 @@
+FV_SYS=O\E\_B\G\n,B\G\I\N\[3..0],B\G\O\U\T\[3..0],I_B\C\L\R\,O\E\_B\C\L\R\,O_B\C\L\R\,I\E\_B\G\,O\E\_B\R\[3..0],I_B\R\[3..0],O\E\_B\B\S\Y\,I_B\B\S\Y\
+VME_SYS=B\B\S\Y\,B\C\L\R\,B\R\[3..0],B\G\I\N\[3..0],B\G\O\U\T\[3..0],MRP,MCLK,MSD,MMD,MCTL,SERA,SERB,LI/I\,LI/O\
