@@ -1,6 +1,7 @@
 02.08.2024 - Bgegin work
 10.10.2024 - New vme6U_carrier_Cyc_V_SoC
 - Delete  VME bus
+14.10.2024 Add RF control (Hall, ind, DDS, Slow & DCDCs &DCPs) to PCB 
 
 
 

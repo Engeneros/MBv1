@@ -38,6 +38,142 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=CrBrd\DCP.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TTHAGYPO
+
+[Document2]
+DocumentPath=CrBrd\DCDC_DDS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WQBEWSVU
+
+[Document3]
+DocumentPath=CrBrd\DDS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IODGSMQO
+
+[Document4]
+DocumentPath=CrBrd\DCDC_Slow.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TFAEEFOC
+
+[Document5]
+DocumentPath=CrBrd\SlowChans.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SLTYEYJY
+
+[Document6]
+DocumentPath=CrBrd\DCDC_int.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OARYLHDQ
+
+[Document7]
+DocumentPath=CrBrd\Integrator.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LGAXABII
+
+[Document8]
+DocumentPath=CrBrd\RFCtl.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MWAGAKPQ
+
+[Document9]
 DocumentPath=Power.Sch
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CVMVCGYG
 
-[Document2]
+[Document10]
 DocumentPath=main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +207,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CBBFWGQX
 
-[Document3]
+[Document11]
+DocumentPath=CrBrd\DCDC_Hall.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HTUMHBEJ
+
+[Document12]
+DocumentPath=CrBrd\Hall.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GTRGVRRS
+
+[Document13]
 DocumentPath=Si5395_CLK_GEN.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document14]
 DocumentPath=main.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document15]
 DocumentPath=SFPplusConn.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document16]
 DocumentPath=can_phy.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document17]
 DocumentPath=ethernet_1gbe_ext_magn.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document18]
 DocumentPath=cyc_v_som_C.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document19]
 DocumentPath=cyc_v_som_B.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document20]
 DocumentPath=sdcard_emmc.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document21]
 DocumentPath=ethernet_dual_100mbe_ext_magn.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document22]
 DocumentPath=USER_PIN.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document23]
 DocumentPath=jtag.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document24]
 DocumentPath=uart_adm3222.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document25]
 DocumentPath=cyc_v_som_A.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document26]
 DocumentPath=vme6U_carrier_Cyc_V_SoC.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document27]
 DocumentPath=vme6U_carrier.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document28]
 DocumentPath=cyc_v_som_A.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OABNLARD
 
-[Document19]
+[Document29]
 DocumentPath=cyc_v_som_B.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RWCPPVTS
 
-[Document20]
+[Document30]
 DocumentPath=cyc_v_som_C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PVBWISYX
 
-[Document21]
+[Document31]
 DocumentPath=uart_adm3222.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFPNBBKG
 
-[Document22]
+[Document32]
 DocumentPath=jtag.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KWQWUKYV
 
-[Document23]
+[Document33]
 DocumentPath=sdcard_emmc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WCPJGCKL
 
-[Document24]
+[Document34]
 DocumentPath=ethernet_dual_100mbe_ext_magn.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TXOQNBKR
 
-[Document25]
+[Document35]
 DocumentPath=ethernet_1gbe_ext_magn.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VYITBTUK
 
-[Document26]
+[Document36]
 DocumentPath=can_phy.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OLXBPMKH
 
-[Document27]
+[Document37]
 DocumentPath=Power_3V3_LDO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GPMYRENK
 
-[Document28]
+[Document38]
 DocumentPath=SFPplusConn.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,8 +683,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLMIEQUJ
 
-[Document29]
-DocumentPath=vme64x6U_ctrlc.PcbDoc
+[Document39]
+DocumentPath=SupBigBrrg_0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -530,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TWAVCIEJ
 
-[Document30]
+[Document40]
 DocumentPath=Si5395_CLK_GEN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PXEUPXMV
 
-[Document31]
+[Document41]
 DocumentPath=power_REG104GA_3V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KYXTSDBV
 
-[Document32]
+[Document42]
 DocumentPath=power_REG104GA_1V8.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WYFOJTGF
 
-[Document33]
+[Document43]
 DocumentPath=Si5395_CLK_PWR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -598,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XCSKMVJI
 
-[Document34]
+[Document44]
 DocumentPath=vme6U_carrier_Cyc_V_SoC.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -932,6 +1102,10 @@ OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
+Configuration2_Name1=ColumnNameFormat
+Configuration2_Item1=CaptionAsName
+Configuration2_Name2=ForceUpdateSettings
+Configuration2_Item2=False
 OutputType3=ReportHierarchy
 OutputName3=Report Project Hierarchy
 OutputDocumentPath3=
