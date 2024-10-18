@@ -785,8 +785,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document45]
+DocumentPath=..\..\..\..\LibAltium\DDS1_Lib\DDSintLib.LibPkg
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [SearchPath1]
 Path=*.*
+IncludeSubFolders=1
+
+[SearchPath2]
+Path=..\..\..\..\LibAltium\DDS1_Lib\*.*
 IncludeSubFolders=1
 
 [Configuration1]
