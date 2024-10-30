@@ -39,7 +39,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=CrBrd\DCP.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -56,7 +56,7 @@ DocumentUniqueId=TTHAGYPO
 
 [Document2]
 DocumentPath=CrBrd\DCDC_DDS.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -90,12 +90,12 @@ DocumentUniqueId=IODGSMQO
 
 [Document4]
 DocumentPath=CrBrd\DCDC_Slow.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=39
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -107,7 +107,7 @@ DocumentUniqueId=TFAEEFOC
 
 [Document5]
 DocumentPath=CrBrd\SlowChans.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -124,12 +124,12 @@ DocumentUniqueId=SLTYEYJY
 
 [Document6]
 DocumentPath=CrBrd\DCDC_int.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=38
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -141,7 +141,7 @@ DocumentUniqueId=OARYLHDQ
 
 [Document7]
 DocumentPath=CrBrd\Integrator.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -158,7 +158,7 @@ DocumentUniqueId=LGAXABII
 
 [Document8]
 DocumentPath=CrBrd\RFCtl.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -175,7 +175,7 @@ DocumentUniqueId=MWAGAKPQ
 
 [Document9]
 DocumentPath=Power.Sch
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -192,7 +192,7 @@ DocumentUniqueId=CVMVCGYG
 
 [Document10]
 DocumentPath=main.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -209,12 +209,12 @@ DocumentUniqueId=CBBFWGQX
 
 [Document11]
 DocumentPath=CrBrd\DCDC_Hall.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=37
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -226,7 +226,7 @@ DocumentUniqueId=HTUMHBEJ
 
 [Document12]
 DocumentPath=CrBrd\Hall.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -498,7 +498,7 @@ DocumentUniqueId=
 
 [Document28]
 DocumentPath=cyc_v_som_A.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -515,7 +515,7 @@ DocumentUniqueId=OABNLARD
 
 [Document29]
 DocumentPath=cyc_v_som_B.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -532,7 +532,7 @@ DocumentUniqueId=RWCPPVTS
 
 [Document30]
 DocumentPath=cyc_v_som_C.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -549,7 +549,7 @@ DocumentUniqueId=PVBWISYX
 
 [Document31]
 DocumentPath=uart_adm3222.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -566,7 +566,7 @@ DocumentUniqueId=AFPNBBKG
 
 [Document32]
 DocumentPath=jtag.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -583,7 +583,7 @@ DocumentUniqueId=KWQWUKYV
 
 [Document33]
 DocumentPath=sdcard_emmc.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -600,7 +600,7 @@ DocumentUniqueId=WCPJGCKL
 
 [Document34]
 DocumentPath=ethernet_dual_100mbe_ext_magn.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -617,7 +617,7 @@ DocumentUniqueId=TXOQNBKR
 
 [Document35]
 DocumentPath=ethernet_1gbe_ext_magn.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -634,7 +634,7 @@ DocumentUniqueId=VYITBTUK
 
 [Document36]
 DocumentPath=can_phy.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -651,7 +651,7 @@ DocumentUniqueId=OLXBPMKH
 
 [Document37]
 DocumentPath=Power_3V3_LDO.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -668,7 +668,7 @@ DocumentUniqueId=GPMYRENK
 
 [Document38]
 DocumentPath=SFPplusConn.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -702,7 +702,7 @@ DocumentUniqueId=TWAVCIEJ
 
 [Document40]
 DocumentPath=Si5395_CLK_GEN.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -719,7 +719,7 @@ DocumentUniqueId=PXEUPXMV
 
 [Document41]
 DocumentPath=power_REG104GA_3V3.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -736,7 +736,7 @@ DocumentUniqueId=KYXTSDBV
 
 [Document42]
 DocumentPath=power_REG104GA_1V8.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -753,7 +753,7 @@ DocumentUniqueId=WYFOJTGF
 
 [Document43]
 DocumentPath=Si5395_CLK_PWR.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -804,6 +804,10 @@ DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=SupBigBrrg_0 29.10.2024 12-31-20.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=SupBigBrrg_0 30.10.2024 14-49-19.WAS
 DItemRevisionGUID=
 
 [SearchPath1]
