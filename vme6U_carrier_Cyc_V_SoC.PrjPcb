@@ -107,7 +107,7 @@ DocumentUniqueId=TFAEEFOC
 
 [Document5]
 DocumentPath=CrBrd\SlowChans.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -141,7 +141,7 @@ DocumentUniqueId=OARYLHDQ
 
 [Document7]
 DocumentPath=CrBrd\Integrator.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -226,7 +226,7 @@ DocumentUniqueId=HTUMHBEJ
 
 [Document12]
 DocumentPath=CrBrd\Hall.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -815,10 +815,26 @@ DocumentPath=SupBigBrrg_0 02.11.2024 13-50-03.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=SupBigBrrg_0 29.10.2024 12-31-20.WAS
+DocumentPath=SupBigBrrg_0 18.11.2024 17-58-47.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument5]
+DocumentPath=SupBigBrrg_0 18.11.2024 19-07-49.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=SupBigBrrg_0 18.11.2024 19-08-58.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=SupBigBrrg_0 18.11.2024 19-17-48.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=SupBigBrrg_0 29.10.2024 12-31-20.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
 DocumentPath=SupBigBrrg_0 30.10.2024 14-49-19.WAS
 DItemRevisionGUID=
 
