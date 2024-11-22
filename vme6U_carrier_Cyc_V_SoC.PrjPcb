@@ -39,7 +39,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=CrBrd\DCP.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -56,7 +56,7 @@ DocumentUniqueId=TTHAGYPO
 
 [Document2]
 DocumentPath=CrBrd\DCDC_DDS.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -90,7 +90,7 @@ DocumentUniqueId=IODGSMQO
 
 [Document4]
 DocumentPath=CrBrd\DCDC_Slow.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -124,7 +124,7 @@ DocumentUniqueId=SLTYEYJY
 
 [Document6]
 DocumentPath=CrBrd\DCDC_int.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -158,7 +158,7 @@ DocumentUniqueId=LGAXABII
 
 [Document8]
 DocumentPath=CrBrd\RFCtl.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -209,7 +209,7 @@ DocumentUniqueId=CBBFWGQX
 
 [Document11]
 DocumentPath=CrBrd\DCDC_Hall.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -831,10 +831,22 @@ DocumentPath=SupBigBrrg_0 18.11.2024 19-17-48.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=SupBigBrrg_0 29.10.2024 12-31-20.WAS
+DocumentPath=SupBigBrrg_0 20.11.2024 19-22-08.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
+DocumentPath=SupBigBrrg_0 21.11.2024 11-48-17.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=SupBigBrrg_0 22.11.2024 17-27-17.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=SupBigBrrg_0 29.10.2024 12-31-20.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
 DocumentPath=SupBigBrrg_0 30.10.2024 14-49-19.WAS
 DItemRevisionGUID=
 
