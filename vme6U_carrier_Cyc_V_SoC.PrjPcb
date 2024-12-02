@@ -73,7 +73,7 @@ DocumentUniqueId=WQBEWSVU
 
 [Document3]
 DocumentPath=CrBrd\DDS.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -702,7 +702,7 @@ DocumentUniqueId=TWAVCIEJ
 
 [Document40]
 DocumentPath=Si5395_CLK_GEN.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -803,10 +803,18 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=SupBigBrrg_0 22.11.2024 17-27-17.WAS
+DocumentPath=SupBigBrrg_0 02.12.2024 12-29-42.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=SupBigBrrg_0 02.12.2024 12-38-49.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=SupBigBrrg_0 22.11.2024 17-27-17.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=SupBigBrrg_0 27.11.2024 15-33-21.WAS
 DItemRevisionGUID=
 
