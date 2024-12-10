@@ -73,7 +73,7 @@ DocumentUniqueId=WQBEWSVU
 
 [Document3]
 DocumentPath=CrBrd\DDS.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -141,7 +141,7 @@ DocumentUniqueId=OARYLHDQ
 
 [Document7]
 DocumentPath=CrBrd\Integrator.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -804,12 +804,12 @@ DocumentUniqueId=
 
 [Document46]
 DocumentPath=DiagrammaStrutturale.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=41
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -821,12 +821,12 @@ DocumentUniqueId=URDAVLOD
 
 [Document47]
 DocumentPath=PowerSys.DiagrammaStrutturaleH.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=42
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -838,12 +838,12 @@ DocumentUniqueId=KNDJBAOB
 
 [Document48]
 DocumentPath=Buffers.DiagrammaStrutturale.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=40
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
